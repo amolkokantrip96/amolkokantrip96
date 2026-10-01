@@ -1,3 +1,18 @@
+/* Background */
+background: rgba(38, 108, 255, 0.38);
+
+/* Text */
+color: #FFFFFF;
+
+/* Left highlight */
+box-shadow: inset 3px 0 #56A0FF;
+
+/* Border / submenu line */
+border-left: 2px solid rgba(86, 139, 255, 0.45);
+
+
+
+---++++++----
 
 <!DOCTYPE html>
 <html lang="en">
